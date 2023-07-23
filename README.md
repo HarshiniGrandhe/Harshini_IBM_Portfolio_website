@@ -5,4 +5,4 @@ Bootstrap will be set up to serve as the frontend framework for the project, all
 
 
 
-Note:The images are kept under a folder named "images" and css file is placed in "css" folder.
+Note:The images are kept under a folder named "images" and css file is placed in "css" folder. Change image the file path and use the code.
